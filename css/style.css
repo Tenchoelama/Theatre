@@ -1,0 +1,95 @@
+/* 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    position: sticky;
+    top: 0;.hero{
+    color: white;
+} */
+
+#header{
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(192, 167, 25);
+    
+    
+}
+    
+
+.two{
+    margin-top: 100px;
+    justify-content: center;
+    background-color: rgb(192, 167, 25);
+    font-family: 'Times New Roman', Times, serif;
+   
+    
+    
+
+
+}
+
+.col-4 a{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color:aliceblue;
+    
+}
+
+.hero img{
+    height: 60vh;
+    width:100%
+    
+
+}
+
+li{
+   font-family:'Courier New', Courier, monospace;
+   font-size:larger;
+   color:black;
+   text-decoration: none;
+
+   
+   
+
+
+}
+
+.one{
+    background-color: black;
+    width:100%;
+    color:White;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+
+
+
+a{
+    color:rgb(192, 167, 25);
+    text-decoration: none;
+}
+
+.three{
+    background-color: black;
+    width:100%;
+    color:White;
+    padding-left: 20px;
+    padding-top: 10px;
+    height: 30vh;
+    width:100%
+}
+
+.three a{
+    color:rgb(192, 167, 25);
+    text-decoration: underline;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: larger;
+    
+}
+
+.two row{
+    padding-top: 30px;
+}
+
+
+
